@@ -18,6 +18,8 @@
 - Update UI npm audit dependencies
 - Upgrade all UI to Angular 18
 - Complete UI builds extraction
+- Move to Bootstrap 5
+- Embrace WTG branding/design language? 
 
 ## Improvements
 - Migration of TR from C++ to .Net
