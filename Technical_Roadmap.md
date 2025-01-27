@@ -34,6 +34,7 @@
 ## Miscellaneous
 - [DISCUSS] move CONTENT_RESOURCE to filesystem
 - Retire old Jenkins
+- Retire GitLab
 - Restore or restrict SonarQube functionality
 - Restore code coverage metric somehow
 - One-click full builds
